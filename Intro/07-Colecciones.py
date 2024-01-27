@@ -10,10 +10,11 @@ lista.append('Python mola mazo')
 print(lista[3])
 
 #Conjuntos(set): coleciones no ordenadas de elementos únicos pueden ser añadidos o eliminados despues (mutables)
+# Los conjuntos no están enumerados por lo que no se puede acceder a su posición 
 conjunto = {1,2,3,1,2,3}
 print(conjunto)
 
-#Frozenset: Similar al ser pero no se puede agregar ni eliminar elementos
+#Frozenset: Similar al set pero no se puede agregar ni eliminar elementos
 conjunto_frozenset = frozenset({"Let it go", "Let it go", "Can't hold it back anymore"})
 print(conjunto_frozenset)
 
