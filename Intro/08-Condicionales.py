@@ -17,7 +17,7 @@ elif edad >=19 and edad <=100:
 elif edad >= 101:
     print("Cuidate :)")
 
-## Operador OR se cumple una condición
+## Operador OR se cumple una de las condiciones
 
 edad = 25
 

@@ -1,5 +1,4 @@
 #En Python los tipos de datos no son declarativos
-
 edad = 18
 print(type(edad))
 edad = "ya quisieras"
