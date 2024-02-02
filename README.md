@@ -21,3 +21,5 @@ Multiplataforma y compatible con diversos sistemas operativos.
 - ThisIsPy con dos ejemplos de lo que se puede hacer con.
 
 - Como crear un virtual environment.
+
+- Mi primera API con FastAPI.
